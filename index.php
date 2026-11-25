@@ -151,13 +151,13 @@ if (!isset($_SESSION['id'])) {
 
                         <p>Fresh Japanese Matcha</p>
 
-                        <div class="product-bottom">
+                        <!-- <div class="product-bottom">
                             <span class="menu-price">9000</span>
 
                             <a href="cart.php" class="add-cart">
                                 <i class="fa-solid fa-plus"></i>
                             </a>
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -180,13 +180,13 @@ if (!isset($_SESSION['id'])) {
 
                         <p>Sweet & Creamy Drink</p>
 
-                        <div class="product-bottom">
+                        <!-- <div class="product-bottom">
                             <span class="menu-price">20000</span>
 
                             <a href="cart.php" class="add-cart">
                                 <i class="fa-solid fa-plus"></i>
                             </a>
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -210,13 +210,13 @@ if (!isset($_SESSION['id'])) {
 
                         <p>Homemade Fresh Cake</p>
 
-                        <div class="product-bottom">
+                        <!-- <div class="product-bottom">
                             <span class="menu-price">8000</span>
 
                             <a href="cart.php" class="add-cart">
                                 <i class="fa-solid fa-plus"></i>
                             </a>
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -239,12 +239,12 @@ if (!isset($_SESSION['id'])) {
 
                         <p>Rich Chocolate Flavor</p>
 
-                        <div class="product-bottom">
+                        <!-- <div class="product-bottom">
                             <span class="menu-price">15000</span>
 
                             <a href="cart.php" class="add-cart"> <i class="fa-solid fa-plus"></i>
                             </a>
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -267,12 +267,12 @@ if (!isset($_SESSION['id'])) {
 
                         <p>Healthy & Delicious Food</p>
 
-                        <div class="product-bottom">
+                        <!-- <div class="product-bottom">
                             <span class="menu-price">16000</span>
 
                             <a href="cart.php" class="add-cart"> <i class="fa-solid fa-plus"></i>
                             </a>
-                        </div>
+                        </div> -->
 
                     </div>
 
